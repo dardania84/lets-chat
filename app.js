@@ -4,7 +4,7 @@
 
 'use strict';
 
-process.title = 'letschat';
+process.title = 'Dardania Chat';
 
 require('colors');
 
